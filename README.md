@@ -1,2 +1,2 @@
 # computational_Perception_Notebooks
-Jupyter notebooks focused on Computational Perception, covering topics such as image processing, visual systems, and pattern recognition. Developed during the Computer Engineering degree.
+This repository contains Jupyter notebooks for the course Computational Perception, part of the Computer Science track at the Universitat Politècnica de València (UPV). The course covers topics such as image processing, visual systems, and pattern recognition.
