@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+tensorflow
+keras
+keras-tuner
+keras-hub
+tensorflow-datasets
+kagglehub
+silence-tensorflow
