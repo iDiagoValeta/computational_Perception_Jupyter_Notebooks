@@ -1,5 +1,7 @@
 # Computational Perception — Jupyter Notebooks
 
+> **Context.** Built in April 2025 as coursework for Computational Perception at UPV, when I was a Computer Engineering student, among my first public repositories and before my work on LLM and RAG projects. It is kept as it was submitted; the code is not maintained.
+
 > Practical lab notebooks for the **Computational Perception** course, part of the Computer Science degree at the [Universitat Politècnica de València (UPV)](https://www.upv.es).
 
 ---
